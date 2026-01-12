@@ -1,4 +1,4 @@
-# Inventory Analysis (Power BI)
+# Inventory Dashboard (Power BI)
 
 ## Overview
 
